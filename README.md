@@ -1,5 +1,5 @@
 # NYU-Daily-Screener-Demo
-Use [this iOS shortcut](https://www.icloud.com/shortcuts/85732ffccd964155802ca3cec823afe5) to generate your NYU daily screener.
+Use [this iOS shortcut](https://www.icloud.com/shortcuts/f344f0dc98574bad9d2b4026025d6f4a) to generate your NYU daily screener.
 
 Note:
 
